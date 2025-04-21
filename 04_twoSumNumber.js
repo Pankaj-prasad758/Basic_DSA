@@ -9,4 +9,4 @@ for (let i = 0; i < num.length; i++) {
     
 }
 }
-console.log(twoSum([2,7,12,4,3],15));
+console.log(twoSum([2,7,12,13,56,21,43,9,4,3],47));

@@ -3,7 +3,7 @@
 const checkPalindrome = (num) => {
   return num === +num.toString().split("").reverse().join("");
 };
-console.log( checkPalindrome(21));
+console.log( checkPalindrome(212));
 
 
 
