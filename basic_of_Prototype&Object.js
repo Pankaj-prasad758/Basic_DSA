@@ -2,7 +2,7 @@
 
 function sumfn(sum){
     this.sum = sum
-    return sum * 5
+    return sum * 6
 }
 
 sumfn.power = 9
